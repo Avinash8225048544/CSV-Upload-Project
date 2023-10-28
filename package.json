@@ -1,5 +1,5 @@
 {
-  "name": "csvupload",
+  "name": "CSV-Upload-Project",
   "version": "1.0.0",
   "description": "A web app to read csv files",
   "main": "index.js",
